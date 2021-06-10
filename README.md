@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Reahabedge**
 
-- 🌱 I’m currently learning about **PWAs**
+- 🌱 I’m currently learning about **PWAs, GraphQL, Jamstack**
 
 - 💬 Ask me about HTML, CSS, JS, React, Gatsby
 
