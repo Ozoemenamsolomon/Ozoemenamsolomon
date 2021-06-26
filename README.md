@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Solomon Ozoemenam</h1>
 <h3 align="center">A Passionate Frontend Developer and a Student of Computer Science at the University of Siegen</h3>
 
-- 🔭 I’m currently working on **Reahabedge**
+- 🔭 I’m currently working on **Reahabedge, royal-rangers-on-the-map, RR-157**
 
 - 🌱 I’m currently learning about **PWAs, GraphQL, Jamstack**
 
