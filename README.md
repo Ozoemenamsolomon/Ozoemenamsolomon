@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Reahabedge, royal-rangers-on-the-map, RR-157**
 
-- 🌱 I’m currently learning about **PWAs, GraphQL, Jamstack**
+- 🌱 I’m currently learning about **PWAs, GraphQL, Jamstack, Serverless Functions**
 
 - 💬 Ask me about HTML, CSS, JS, React, Gatsby
 
